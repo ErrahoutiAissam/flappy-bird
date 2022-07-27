@@ -112,6 +112,11 @@
   position: absolute;
   left: 210px;
   bottom: 300px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 300;
+  font-size: 1.7rem;
+  border-radius: 20%;
+  background-color: white ;
 }
 
 .end-game-text {
